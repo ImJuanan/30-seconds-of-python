@@ -1,6 +1,8 @@
 ---
-title: get
-tags: dictionary,list,intermediate
+title: Get nested value
+tags: dictionary,list
+expertise: intermediate
+author: maciv
 firstSeen: 2020-10-28T12:21:39+02:00
 lastUpdated: 2020-10-28T12:21:39+02:00
 ---
@@ -11,7 +13,7 @@ Retrieves the value of the nested key indicated by the given selector list from 
 - Apply `operator.getitem()` for each key in `selectors`, retrieving the value to be used as the iteratee for the next iteration.
 
 ```py
-from functools import reduce 
+from functools import reduce
 from operator import getitem
 
 def get(d, selectors):
@@ -23,7 +25,7 @@ users = {
   'freddy': {
     'name': {
       'first': 'fred',
-      'last': 'smith' 
+      'last': 'smith'
     },
     'postIds': [1, 2, 3]
   }

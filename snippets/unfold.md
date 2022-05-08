@@ -1,6 +1,7 @@
 ---
-title: unfold
-tags: function,list,advanced
+title: Unfold list
+tags: function,list
+expertise: advanced
 firstSeen: 2020-01-02T20:17:51+02:00
 lastUpdated: 2020-11-02T19:28:35+02:00
 ---
@@ -14,7 +15,7 @@ Builds a list, using an iterator function and an initial seed value.
 ```py
 def unfold(fn, seed):
   def fn_generator(val):
-    while True: 
+    while True:
       val = fn(val[1])
       if val == False: break
       yield val[0]

@@ -1,6 +1,7 @@
 ---
-title: initialize_2d_list
-tags: list,intermediate
+title: Initialize 2D list
+tags: list
+expertise: intermediate
 firstSeen: 2019-10-25T10:11:51+03:00
 lastUpdated: 2020-11-02T19:28:05+02:00
 ---

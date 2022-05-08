@@ -1,6 +1,7 @@
 ---
-title: union
-tags: list,beginner
+title: List union
+tags: list
+expertise: beginner
 firstSeen: 2019-08-21T09:10:39+03:00
 lastUpdated: 2020-11-02T19:28:35+02:00
 ---

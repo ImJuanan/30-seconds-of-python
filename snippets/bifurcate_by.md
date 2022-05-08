@@ -1,6 +1,7 @@
 ---
-title: bifurcate_by
-tags: list,intermediate
+title: Bifurcate list based on function
+tags: list
+expertise: intermediate
 firstSeen: 2019-08-20T12:41:21+03:00
 lastUpdated: 2020-11-02T19:27:07+02:00
 ---

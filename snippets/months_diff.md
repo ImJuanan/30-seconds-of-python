@@ -1,6 +1,8 @@
 ---
-title: months_diff
-tags: date,beginner
+title: Date difference in months
+tags: date
+expertise: beginner
+author: maciv
 firstSeen: 2020-10-28T16:20:39+02:00
 lastUpdated: 2020-10-28T16:20:39+02:00
 ---

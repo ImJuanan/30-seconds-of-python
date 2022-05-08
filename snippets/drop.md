@@ -1,6 +1,8 @@
 ---
-title: drop
-tags: list,beginner
+title: Drop list elements from the left
+tags: list
+expertise: beginner
+author: chalarangelo
 firstSeen: 2020-03-10T21:59:41+02:00
 lastUpdated: 2020-11-02T19:27:53+02:00
 ---

@@ -1,6 +1,7 @@
 ---
-title: all_unique
-tags: list,beginner
+title: Check if list has no duplicates
+tags: list
+expertise: beginner
 firstSeen: 2018-04-01T11:03:09+03:00
 lastUpdated: 2021-01-07T23:30:28+02:00
 ---

@@ -1,6 +1,8 @@
 ---
-title: days_ago
-tags: date,intermediate
+title: Days ago
+tags: date
+expertise: intermediate
+author: maciv
 firstSeen: 2020-10-28T16:19:30+02:00
 lastUpdated: 2020-10-28T16:19:30+02:00
 ---

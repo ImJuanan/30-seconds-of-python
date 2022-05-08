@@ -1,6 +1,8 @@
 ---
-title: hex_to_rgb
-tags: string,math,intermediate
+title: Hex to RGB
+tags: string,math
+expertise: intermediate
+author: maciv
 firstSeen: 2020-09-13T01:08:21+03:00
 lastUpdated: 2020-09-15T16:13:06+03:00
 ---

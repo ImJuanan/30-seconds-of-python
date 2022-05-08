@@ -1,6 +1,7 @@
 ---
-title: most_frequent
-tags: list,beginner
+title: Most frequent element
+tags: list
+expertise: beginner
 firstSeen: 2019-10-12T00:40:49+03:00
 lastUpdated: 2020-11-02T19:28:27+02:00
 ---

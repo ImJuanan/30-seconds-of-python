@@ -1,6 +1,7 @@
 ---
-title: filter_unique
-tags: list,beginner
+title: Filter unique list values
+tags: list
+expertise: beginner
 firstSeen: 2019-10-02T20:06:24+03:00
 lastUpdated: 2020-11-02T19:27:53+02:00
 ---

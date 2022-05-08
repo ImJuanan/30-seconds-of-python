@@ -1,6 +1,8 @@
 ---
-title: find_index_of_all
-tags: list,intermediate
+title: Find all matching indexes
+tags: list
+expertise: intermediate
+author: maciv
 firstSeen: 2020-10-11T13:45:19+03:00
 lastUpdated: 2020-11-02T19:27:53+02:00
 ---

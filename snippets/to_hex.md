@@ -1,6 +1,7 @@
 ---
-title: to_hex
-tags: math,beginner
+title: Number to hex
+tags: math
+expertise: beginner
 firstSeen: 2020-10-09T09:45:47+03:00
 lastUpdated: 2020-10-09T09:45:47+03:00
 ---

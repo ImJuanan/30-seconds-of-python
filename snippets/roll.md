@@ -1,6 +1,7 @@
 ---
-title: roll
-tags: list,beginner
+title: Rotate list elements
+tags: list
+expertise: beginner
 firstSeen: 2020-11-02T19:15:44+02:00
 lastUpdated: 2020-11-02T19:15:44+02:00
 ---

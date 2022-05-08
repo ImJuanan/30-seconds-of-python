@@ -1,6 +1,8 @@
 ---
-title: find_keys
-tags: dictionary,intermediate
+title: Find keys with value
+tags: dictionary
+expertise: intermediate
+author: maciv
 firstSeen: 2020-04-16T19:17:13+03:00
 lastUpdated: 2020-11-02T19:27:53+02:00
 ---

@@ -1,6 +1,8 @@
 ---
-title: sort_dict_by_key
-tags: dictionary,intermediate
+title: Sort dictionary by key
+tags: dictionary
+expertise: intermediate
+author: maciv
 firstSeen: 2020-10-16T21:24:33+03:00
 lastUpdated: 2020-11-02T19:28:35+02:00
 ---

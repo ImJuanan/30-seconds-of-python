@@ -1,6 +1,8 @@
 ---
-title: reverse_number
-tags: math,intermediate
+title: Reverse number
+tags: math
+expertise: intermediate
+author: maciv
 firstSeen: 2020-10-04T14:21:41+03:00
 lastUpdated: 2020-11-02T19:28:27+02:00
 ---
